@@ -1,0 +1,7 @@
+item.smoke_bomb.name=Smoke Bomb
+item.hider_finder.name=Hider Finder
+
+item.stick_hider.name=Hider Stick
+item.stick_seeker.name=Seeker Stick
+
+command.hns.usage=/hns <command> (value)

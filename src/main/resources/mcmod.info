@@ -1,0 +1,16 @@
+[
+{
+  "modid": "hnsutils",
+  "name": "HNSUtils",
+  "description": "Release 1.1.1 Changelog:\n > Eliminated hiders will no langer make noise when using the Hider Finder\n > Added a timer telling how long seekers must wait\n > Added round time",
+  "version": "Release",
+  "mcversion": "${mcversion}",
+  "url": "https://rodabafilms.nl/",
+  "updateUrl": "",
+  "authorList": ["RoDaBaFilms"],
+  "credits": "RickTheMLGpro & bav_ninja (alpha testers)",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
